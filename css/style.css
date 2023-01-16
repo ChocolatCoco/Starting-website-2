@@ -1079,3 +1079,15 @@ h4 {
     font-weight: 700;
     font-size: 28px;
 }
+
+.contrast {
+    color: #351d11 !important;
+}
+
+.contrast1 {
+    color: #232323 !important;
+}
+
+.contrast2 {
+    background-color: #232323 !important;
+}
