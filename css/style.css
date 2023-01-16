@@ -1066,3 +1066,16 @@ h4 {
     font-size: 22px;
     letter-spacing: normal;
 }
+
+.texte--agrandi {
+    z-index: 10;
+    position: relative;
+    font-size: 18px;
+}
+
+.texte--clair {
+    z-index: 10;
+    position: relative;
+    font-weight: 700;
+    font-size: 28px;
+}
