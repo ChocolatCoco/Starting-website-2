@@ -1091,3 +1091,12 @@ h4 {
 .contrast2 {
     background-color: #232323 !important;
 }
+
+.img-responsive {
+    width: 100%;
+}
+
+.row-no-gutters {
+    display: flex;
+    justify-content: space-between;
+}
